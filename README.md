@@ -1,7 +1,7 @@
 # Fire Detection System 
 
 ## Project Overview
-An automatic fire detection system that senses flames and triggers an alarm (buzzer) and relay output for safety actions.
+An automatic fire detection system that senses flames and triggers an alarm (buzzer) and relay output for safety actions. It also throws water on the fire to keep the system safe
 
 ## Components Used
 - Arduino UNO
